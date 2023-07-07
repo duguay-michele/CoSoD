@@ -15,47 +15,47 @@ The columns correspond to the following data:
 5.	Name of artists: As it appears on the _Billboard_ “Hot 100” year-end charts 
 6.	Collaboration type:
     
-•	_Lead/featured:_ Collab. with lead artist(s) and featured artist(s) 
+        •	_Lead/featured:_ Collab. with lead artist(s) and featured artist(s) 
 
-•	_No lead/featured:_ Collab. with no determined lead 
+        •	_No lead/featured:_ Collab. with no determined lead 
 
-•	_DJ/vocals:_ Collab. between a DJ and vocalist(s) 
+        •	_DJ/vocals:_ Collab. between a DJ and vocalist(s) 
 
 8.	Gender of artists:
    
-•	_Men:_ Collab. between two or more men 
+        •	_Men:_ Collab. between two or more men 
 
-•	_Women:_ Collab. between two or more women 
+        •	_Women:_ Collab. between two or more women 
 
-•	_Mixed:_ Collab. between two or more artists of different genders 
+        •	_Mixed:_ Collab. between two or more artists of different genders 
 
 10.	Collaboration type + gender:
     
-•	_Collab M:_ Collab. between men, no determined lead 
+        •	_Collab M:_ Collab. between men, no determined lead 
 
-•	_Collab M and W:_ Collab. between men and women, no determined lead 
+        •	_Collab M and W:_ Collab. between men and women, no determined lead 
 
-•	_Collab NB and W:_ Collab. betwen women and non-binary artists, no determined lead 
+        •	_Collab NB and W:_ Collab. betwen women and non-binary artists, no determined lead 
 
-•	_Collab W:_ Collab. between women, no determined lead 
+        •	_Collab W:_ Collab. between women, no determined lead 
 
-•	_DJ with M:_ Collab. between male DJ and male vocalist 
+        •	_DJ with M:_ Collab. between male DJ and male vocalist 
 
-•	_DJ with Mix:_ Collab. between male DJ and mixed-gender vocalists 
+        •	_DJ with Mix:_ Collab. between male DJ and mixed-gender vocalists 
 
-•	_DJ with NB:_ Collab. between male DJ and non- binary vocalist 
+        •	_DJ with NB:_ Collab. between male DJ and non- binary vocalist 
 
-•	_DJ with W:_ Collab. between male DJ and female vocalist 
+        •	_DJ with W:_ Collab. between male DJ and female vocalist 
 
-•	_M ft. M:_ Men featuring men 
+        •	_M ft. M:_ Men featuring men 
 
-•	_M ft. W:_ Men featuring non-binary artist(s) 
+        •	_M ft. W:_ Men featuring non-binary artist(s) 
 
-•	_W ft. M:_ Women featuring men 
+        •	_W ft. M:_ Women featuring men 
 
-•	_W ft. W:_ Women featuring women 
+    •	_W ft. W:_ Women featuring women 
 
-12.	MusicBrainz URL: Link to the song on open music encyclopedia MusicBrainz 
+11.	MusicBrainz URL: Link to the song on open music encyclopedia MusicBrainz 
 
 **Analysis CSV files**
 
@@ -69,7 +69,7 @@ The columns correspond to the following data:
 For each formal section performed by one artist only,  the following analytical data on the voice is provided:
 1.	Gender of artist: _M_ (Man), _W_ (Woman), _NB_ (Non- binary) 
 2.	Function of artist: _Feat_ (Featured artist), _Main_ (Main artist), _Neither, Uncredited_ 
-3.	Style of vocal delivery: _R _(Rapped vocals), _S_ (Sung vocals), _Spoken_ 
+3.	Style of vocal delivery: _R_ (Rapped vocals), _S_ (Sung vocals), _Spoken_ 
 4.	Minimum pitch value: in Hz
 5.	First quartile pitch value: in Hz
 6.	Median pitch value: in Hz
