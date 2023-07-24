@@ -4,6 +4,7 @@ CoSoD consists of metadata and analytical data of a 331-song corpus comprising a
 # Annotation Data Overview 
 
 For more details on the annotation process and data, refer to our ISMIR 2023 paper: https://arxiv.org/abs/2307.05588 
+
 Please cite the paper if you plan on publishing results using the dataset. 
 
 **Metadata CSV Files**
